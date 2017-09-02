@@ -3,9 +3,9 @@
 + For each college create new web page to list the Schools and Departments for the college
 + Create a page that lists the General Areas of the SIU University Curriculum with link to the sub-areas
 ### Header
-+ Every page must have a header with the SIU logo image followed by a <hr> tag. The image must be a link to the real SIU page
-###Footer
++ Every page must have a header with the SIU logo image followed by a horizontal line tag. The image must be a link to the real SIU page
+### Footer
 + Every page must have a footer with a <hr> tag followed by the University Contact Information
--+ Southern Illinois University
--+ Carbondale, IL 62901-6899 
--+ Phone: (618) 453-2121
+..+ Southern Illinois University
+..+ Carbondale, IL 62901-6899 
+..+ Phone: (618) 453-2121
