@@ -9,3 +9,26 @@
   + Southern Illinois University
   + Carbondale, IL 62901-6899
   + Phone: (618) 453-2121
+### Main Page (Lab02.html) 
++ Header
++ List of SIU Colleges (use unordered list)
+  + Name with Link to the College page
++ Space
++ Link to the University Core Curriculum – Footer
+### College Pages (one page for each SIU college) 
++ Header
++ College Information
+  + Name with Link to the real College Web Address
+  + Dean’s name and email (with link)
++ List of Departments/Schools within the college (use unordered list)
+  + Name with link to real web address
+  + Chair/Director’s name and email (with link)
++ Footer
+### University Core Curriculum Page – Header
++ List of General Areas (internal link to the document)
+  + Foundation Skills (link to the heading created below)
+  + Disciplinary Studies (link to the heading created below)
+  + Integrative Studies (link to the heading created below)
++ Within the same document create a heading for each area listed above and list the sub areas (use unordered list)
+  + Name with link to the real sub area • Total hours
++ Footer
