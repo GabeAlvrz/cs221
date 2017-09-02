@@ -24,7 +24,8 @@
   + Name with link to real web address
   + Chair/Director’s name and email (with link)
 + Footer
-### University Core Curriculum Page – Header
+### University Core Curriculum Page 
++ Header
 + List of General Areas (internal link to the document)
   + Foundation Skills (link to the heading created below)
   + Disciplinary Studies (link to the heading created below)
